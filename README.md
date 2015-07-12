@@ -1,6 +1,6 @@
 # ncmpcpp cheat sheet
 
-Cheat sheet generator for ncmpcpp
+Cheat sheet generator for ncmpcpp, [click here for the cheat sheet.](http://pkgbuild.com/~jelle/ncmpcpp/)
 
 Dependencies
 ------------
