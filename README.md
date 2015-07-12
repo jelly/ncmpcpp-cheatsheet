@@ -21,3 +21,9 @@ index.html page in the html directory.
 To view the generated page, just run
 
  $BROWSER html/index.html
+
+
+Credit
+------
+
+The CSS styles are copied from the [vim-cheat-sheet project](https://github.com/rtorr/vim-cheat-sheet)
