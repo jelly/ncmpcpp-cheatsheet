@@ -2,15 +2,13 @@
 
 Cheat sheet generator for ncmpcpp, [click here for the cheat sheet.](http://pkgbuild.com/~jelle/ncmpcpp/)
 
-Dependencies
-------------
+## Dependencies
 
 * Python 3.x (tested on 3.4)
 * Python-jinja
 
 
-Generating the cheat sheet
---------------------------
+## Generating the cheat sheet
 
 Since I haven't found a way to get the key mapping of ncmpcpp from the source code, we copy text from ncmpcpp help screen.
 Open ncmpcpp, select the text by pressing the shift key and copy it to a file named 'keys.txt'.
@@ -23,7 +21,6 @@ To view the generated page, just run
  $BROWSER html/index.html
 
 
-Credit
-------
+## Credit
 
 The CSS styles are copied from the [vim-cheat-sheet project](https://github.com/rtorr/vim-cheat-sheet)
