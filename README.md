@@ -1,4 +1,4 @@
-# ncmpcpp cheat sheet
+# ncmpcpp cheat sheet [![License](https://img.shields.io/github/license/jelly/ncmpcpp-cheatsheet.svg)](https://github.com/jelly/ncmpcpp-cheatsheet/blob/master/LICENSE)
 
 Cheat sheet generator for ncmpcpp, [click here for the cheat sheet.](http://pkgbuild.com/~jelle/ncmpcpp/)
 
